@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Lodhi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<p align="left">Excited about improving the way humans interact with web applications. An aspiring full-stack developer specializing in MERN stack, on the hunt for opportunities to challenge himself.</p>
 
 - 🔭 I’m currently working on [Vijay sales](https://github.com/RAHULANN/vijay-Sales-project)
 
