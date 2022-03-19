@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rahullodhi03.netlify.app/](https://rahullodhi03.netlify.app/)
 
-- 💬 Ask me about **React,node.js,html,css,**
+- 💬 Ask me about **React,node.js,html,css,JavaScript,**
 
 - 📫 How to reach me **rahullodhipanna@gmail.com**
 
