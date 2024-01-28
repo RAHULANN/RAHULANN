@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **React,node.js,html,css,JavaScript,**
 
-- 📫 How to reach me **rahullodhipanna@gmail.com**
+- 📫 How to reach me **rahullodhi0392@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iI24exh1jL5DHkasFvq1FCCRLjLGXfaR/view?usp=sharing](https://drive.google.com/file/d/1iI24exh1jL5DHkasFvq1FCCRLjLGXfaR/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1iI24exh1jL5DHkasFvq1FCCRLjLGXfaR/view?usp=sharing](https://drive.google.com/file/d/1SsBiPh4Vf-RaiBcVjaP2yzgo_s0wmJKx/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
